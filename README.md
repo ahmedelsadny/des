@@ -1,4 +1,4 @@
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/ahmedelsadny)
+[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
 
 <h1> <img src="https://telegra.ph/file/d3ff0eb66b74881b0aaeb.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 𝙰𝙷𝙼𝙴𝙳 𝙴𝙻𝚂𝙰𝙳𝙽𝚈 </h1>
 <p align="center">
@@ -6,7 +6,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
 </p>
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/ahmedelsadny)
+[<img src="https://github.com/ahmedelsadny/des/blob/main/hr.gif"/>](https://github.com/ahmedelsadny)
 
 <p align="center">
 <img src="https://telegra.ph/file/1787e92c54bf17866ceb2.jpg">
