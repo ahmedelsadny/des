@@ -19,12 +19,12 @@
 ```python3
 class Anonymous():
     def __init__(self):
-        self.name = ['Anonymous']
-        self.country = ['India']
-        self.language = ['हिंदी', 'English']
+        self.name = ['ahmed elsadny']
+        self.country = ['egyption']
+        self.language = ['arabic', 'English']
     def programming_languages(self):
         return [
-            'Python', 'SQL'
+            'Python', 'SQL', 'Java', 'Html', 'Css', 'Java Script', 'MongoDB', ''  
         ]
     def markup_languages(self):
         return [
@@ -33,7 +33,7 @@ class Anonymous():
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure'
+            'MongoDB', 'MySQL', 'Azure', 'Digital Ocean'
         ]
     def operating_system(self):
         return [
